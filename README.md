@@ -1,4 +1,4 @@
-# 0417testing
+# k8s-deployment-lab-demo
 
 ![image](https://github.com/user-attachments/assets/2209fe0e-1ed4-4d8a-b352-df34437e49f4)
 建立 ssh config
