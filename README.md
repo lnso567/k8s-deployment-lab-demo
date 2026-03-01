@@ -42,7 +42,6 @@ newgrp docker
 
 ![image](https://github.com/user-attachments/assets/c729969f-a08f-49b5-a4c5-0f49121489ee)
 
-![image](https://github.com/user-attachments/assets/64d2b29e-626d-46f5-b616-beca74f3f30a)
 
 
 
